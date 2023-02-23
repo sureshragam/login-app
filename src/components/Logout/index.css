@@ -1,0 +1,7 @@
+/* Write your CSS here */
+button {
+  border-radius: 15px;
+  border-style: none;
+  width: 150px;
+  height: 50px;
+}
